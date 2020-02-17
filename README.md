@@ -1,17 +1,17 @@
-What is Crypto Pricer?
+What is [Crypto Pricer](https://crypto-pricer.now.sh/)?
 
 Crypto Pricer, is a basic app which displays the price of BTC. 
 
 To run locally?
 - Clone site with git clone
-- cd CryptoPricer
-- npm i
-- npm run dev
-Navigate to localhost:3000 in your browser
+- `cd Crypto-Pricer`
+- `npm i`
+- `npm run dev`
+Navigate to `localhost:3000` in your browser
 
 What tech does this project use?
 
-This project uses React, Next.js, and Zeit Now.
+This project uses `React`, `Next.js`, and `Zeit Now`.
 
 I wanted to build something small using `Next.js`, in order to better understand how this React framework works,
 what makes it easy to setup.
